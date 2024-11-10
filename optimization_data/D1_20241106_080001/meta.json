@@ -1,0 +1,20 @@
+{
+    "title": "D1_20241106_080001",
+    "backend": "qibolab",
+    "platform": "qw11q",
+    "start_time": "2024-11-06 08:00:02.451338+00:00",
+    "end_time": "2024-11-06 08:00:08.930128+00:00",
+    "stats": {},
+    "author": null,
+    "tag": null,
+    "targets": null,
+    "versions": {
+        "qibo": "0.2.6",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.11",
+        "qibocal": "0.1.1"
+    },
+    "date": "2024-11-06",
+    "start-time": "08:00:02",
+    "end-time": "08:00:08"
+}

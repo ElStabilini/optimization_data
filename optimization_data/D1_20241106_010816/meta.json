@@ -1,0 +1,25 @@
+{
+    "title": "D1_20241106_010816",
+    "backend": "qibolab",
+    "platform": "qw11q",
+    "start_time": "2024-11-06 01:08:16.853953+00:00",
+    "end_time": "2024-11-06 01:09:05.328004+00:00",
+    "stats": {
+        "drag_tuning-0": {
+            "acquisition": 41.558039802126586,
+            "fit": 0.01051795994862914
+        }
+    },
+    "author": null,
+    "tag": null,
+    "targets": null,
+    "versions": {
+        "qibo": "0.2.12",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.9",
+        "qibocal": "0.1.1"
+    },
+    "date": "2024-11-06",
+    "start-time": "01:08:16",
+    "end-time": "01:09:05"
+}
